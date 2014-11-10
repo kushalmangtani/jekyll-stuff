@@ -1,6 +1,5 @@
----
-Jekkyl Playground
----
+###Jekkyl Playground
+
 
 > Found some free time at work today.So ended up Playing with Jekkyl and creating a simple blogging site
 
