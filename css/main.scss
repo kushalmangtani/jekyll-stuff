@@ -29,6 +29,7 @@ $on-laptop:        800px;
 
 
 
+
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -50,3 +51,11 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Custom css properties
+.goldengate
+{
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}

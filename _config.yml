@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
  This is where I post everything! I am going to be bold and honest in this blog. Beware pussies!
 baseurl: /jekyll-stuff
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username : kushalmangtani
+
 
 # Build settings
 markdown: kramdown
