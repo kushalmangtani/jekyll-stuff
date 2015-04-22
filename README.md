@@ -10,5 +10,8 @@ Jekyll Playground
 2. Hosting via Github pages
 ``` Github has come up with this amazing idea where they will provide resources,domains to host ur github projects ```
 
+Live
+----
 
+The blog is live in prod at http://kushalmangtani.github.io/jekyll-stuff/
 
